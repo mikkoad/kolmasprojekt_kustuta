@@ -1,0 +1,31 @@
+h1{
+    color: #1d1c1c;
+    text-align: center;
+    text-transform: capitalize;
+    font-family: Helvetica, Arial, sans-serif;
+}
+html{
+    background-color: #dddddd;
+    max-width: 50em;
+    margin: 0 auto;
+}   
+a{
+    text-decoration: none;
+    color: #034e4e;
+}
+a:hover{
+    color: #35acac;
+}
+.special{
+    text-decoration:line-through;
+    color: red;
+}
+.lahesona{
+    text-transform: uppercase;
+    color: blue;
+    background-color: red;
+    padding: 1em;
+}
+#viimane{
+    color: gray;
+}
